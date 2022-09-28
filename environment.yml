@@ -151,4 +151,5 @@ dependencies:
     - statsmodels==0.13.2
     - tqdm==4.64.1
     - urllib3==1.26.12
+    - notebook
 prefix: /home/dkriukov/miniconda3/envs/test_kriukov

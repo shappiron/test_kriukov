@@ -9,15 +9,19 @@ The installation procedure presumes you have installed [Anaconda Distribution](h
 
 `git clone git@github.com:shappiron/test_kriukov.git`
 
-2. Create a new environment:
+2. Move to the directory with the project:
+
+`cd test_kriukov`
+
+3. Create a new environment:
 
 `conda env create -f environment.yml`
 
-3. Activate the environment:
+4. Activate the environment:
 
 `conda activate test_kriukov`
 
-4. Open the jupyter notebook `solution.ipynb` from where all things happen.
+5. Open the jupyter notebook `solution.ipynb` from where all things happen.
 
 `jupyter-notebok`
 
